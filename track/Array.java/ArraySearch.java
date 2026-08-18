@@ -23,6 +23,6 @@ public class ArraySearch {
     public static void main(String[] args) {
         int arr[] = {10, 20, 30, 40, 50};
         Array as = new Array();
-        as.search(arr, 30);
+        as.search(arr, 40);
     }
 }
